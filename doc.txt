@@ -1,0 +1,3 @@
+https://github.com/airbnb/javascript
+https://scotch.io/courses/easy-node-authentication
+http://mongoos`ejs.com/docs/guide.html
